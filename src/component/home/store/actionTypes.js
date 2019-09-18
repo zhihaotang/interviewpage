@@ -1,1 +1,0 @@
-export const GET_CHANGE_LIST = 'change_home_list';
