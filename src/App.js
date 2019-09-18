@@ -16,9 +16,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
-      </header>
+        </img>
+
+        </div>
+      </Layout.Header>
+      <Layout.Content>Content</Layout.Content>
+      <Layout.Footer>Footer</Layout.Footer>
+    </Layout>
     </div>
   );
 }
